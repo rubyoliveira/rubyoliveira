@@ -11,8 +11,8 @@ I'm a Computer Science student at the University of Virginia with a passion for 
 I'm actively seeking internship opportunities, fellowships, and collaborative projects. Let's connect and build something amazing together!
 
 ### 📬 Connect with Me
-[![Gmail](https://raw.githubusercontent.com/your-username/your-repo/main/images/gmail-banner.png)](mailto:oliveiraruby05@gmail.com)
-[![LinkedIn](https://imgur.com/linkedin-banner.png)](https://www.linkedin.com/in/ruby-oliveira/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oliveiraruby05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruby-oliveira/)
 
 ### 💻 Languages & Tools
 
