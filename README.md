@@ -5,8 +5,8 @@ I'm a Computer Science student at the University of Virginia with a passion for 
 ### 🐾 About Me
 - **University**: University of Virginia
 - **Major**: Computer Science
-- **Interests**: Drawing, advocating for fair education, traveling 🌎, trying new foods 🍽️, and spending time with my weiner dog, Lily.
-
+- **Interests**: Drawing, advocating for fair education, traveling 🌎, trying new foods 🍽️, and spending time with my weiner dog, Lily🪷.
+🐶
 ### 🌟 Open to Opportunities
 I'm actively seeking internship opportunities, fellowships, and collaborative projects. Let's connect and build something amazing together!
 
