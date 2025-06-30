@@ -6,11 +6,11 @@ I'm a Computer Science student at the University of Virginia with a passion for 
 - **University**: University of Virginia
 - **Major**: Computer Science
 - **Interests**: Advocating for fair education, drawing🎨, traveling 🌎, trying new foods 🍽️, and spending time with my weiner dog, Lily🪷🐶.
+- **Professional**: 2x SWE Intern @ Meta
 ### 🌟 Open to Opportunities
 I'm actively seeking internship opportunities, fellowships, and collaborative projects. Let's connect and build something amazing together!
 
 ### 📬 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oliveiraruby05@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruby-oliveira/)
 
 ### 💻 Languages & Tools
